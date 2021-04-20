@@ -1,5 +1,5 @@
 # Site settings 
-title: 'your awesome title'
+title: 'Programing Diary'
 description: 'your web description'
 keywords: 'your web keywords, another keywords'
 url: 'https://abc.github.io' # your host
@@ -16,7 +16,7 @@ nav: # 상단메뉴 + URL
 author: true
 name: 'your awesome name'
 NickName: 'your awesome nickname'
-webtitle: 'your awesome webtitle'
+webtitle: 'Programing Diary'
 bio: 'your awesome bio'
 about: true
 aboutyou: 'your introduction'
